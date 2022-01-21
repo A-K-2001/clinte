@@ -1,8 +1,9 @@
 {
-  "homepage": "https://A-K-2001.github.io/clinte",
+  
   "name": "new",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://A-K-2001.github.io/clinte",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
