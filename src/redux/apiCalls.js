@@ -8,7 +8,7 @@ export const login = async (dispatch ,user )=>{
     try{
         const res = await publicRequest.post("/auth/login",user);
         // console.log("anil");
-        console.log(res.data);
+        // console.log(res.data);
         dispatch(loginSuccess(res.data));
 
     }catch(err){
